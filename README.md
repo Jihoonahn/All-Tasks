@@ -19,7 +19,6 @@
 - [GOOUT](https://github.com/Picnic-GSM)
 - [Bamboo](https://github.com/joog-lim)
 - [Picture](https://github.com/Picture-GSM/Picture_iOS)
-- [GRN](https://github.com/Github-Release-Note/GRN-iOS)
 
 </br>
 

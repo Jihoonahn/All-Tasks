@@ -1,4 +1,5 @@
-<img width = 100% src = "https://user-images.githubusercontent.com/68891494/201014693-b25b1adc-8cb4-41c8-9e82-f7b610e9ba7b.svg"></img>
+# All Tasks
+
 >많은 작업을 하면서, 많은 저장소가 생성되고, 이전 작업들이 묻히기 시작해서 만들게 된 전체 작업물 저장소 입니다.
 
 >It's a Repo that was created by doing a lot of work, creating a lot of Repo, and putting the previous work at a point where it was difficult to find.
@@ -50,10 +51,11 @@
 
 ### Template
 - Project Template
-    - [Tuist Template](https://github.com/Tuist-Template)
-        - [CleanArchitecture-iOS-Swift](https://github.com/Tuist-Template/CleanArchitecture-iOS-Swift)
-        - [CleanArchitecture-iOS-SwiftUI](https://github.com/Tuist-Template/CleanArchitecture-iOS-SwiftUI)
-        - [CleanArchitecture-macOS-SwiftUI](https://github.com/Tuist-Template/CleanArchitecture-macOS-SwiftUI)
+    - [Tuist Template](https://github.com/tuist-template)
+        - [CleanArchitecture-iOS-Swift](https://github.com/tuist-template/CleanArchitecture-iOS-Swift)
+        - [CleanArchitecture-iOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-iOS-SwiftUI)
+        - [CleanArchitecture-macOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-macOS-SwiftUI)
+
 - File Template
     - [Xcode Template](https://github.com/Jihoonahn/Xcode-Template)
         - [ReactorKit](https://github.com/Jihoonahn/Xcode-Template/tree/main/ReactorKit)

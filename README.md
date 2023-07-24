@@ -35,7 +35,6 @@
 
 ### OpenSources
 - [PageImageScrollView](https://github.com/Jihoonahn/PageImageScrollView)
-- [JiHoonSwiftExt](https://github.com/Jihoonahn/JiHoonSwiftExt)
 - [OBExtensions](https://github.com/pelagornis/OBExtensions)
 - [XcodeSnippet](https://github.com/Jihoonahn/XcodeSnippet)
 - [PLCommand](https://github.com/pelagornis/PLCommand)

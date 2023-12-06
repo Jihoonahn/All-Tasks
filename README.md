@@ -25,19 +25,19 @@
 </br>
 
 ### macOS
-- [gitignore for macOS](https://github.com/Jihoonahn/gitignore-macOS)
+- [gitignore for macOS](https://github.com/jihoonahn/gitignore-macOS) `Public archive`
 
 </br>
 
 ### Web
-- [Blog](https://github.com/Jihoonahn/Blog)
+- [Blog](https://github.com/jihoonahn/Blog)
 
 </br>
 
 ### OpenSources
-- [PageImageScrollView](https://github.com/Jihoonahn/PageImageScrollView)
-- [OBExtensions](https://github.com/pelagornis/OBExtensions)
-- [XcodeSnippet](https://github.com/Jihoonahn/XcodeSnippet)
+- [PageImageScrollView](https://github.com/jihoonahn/PageImageScrollView) `Public archive`
+- [OBExtensions](https://github.com/pelagornis/OBExtensions) `Public archive`
+- [XcodeSnippet](https://github.com/jihoonahn/XcodeSnippet) `Public archive`
 - [PLCommand](https://github.com/pelagornis/PLCommand)
 - [PLFile](https://github.com/pelagornis/PLFile)
 - [Builder](https://github.com/pelagornis/Builder)
@@ -52,29 +52,30 @@
 </br>
 
 ### Framework
-- [GRIG-SDK](https://github.com/JiHoonAHN/GRIG-SDK)
+- [GRIG-SDK](https://github.com/jihoonahn/GRIG-SDK)
 
 </br>
 
 ### Template
 - Project Template
-    - [Tuist Template](https://github.com/tuist-template)
-        - [CleanArchitecture-iOS-Swift](https://github.com/tuist-template/CleanArchitecture-iOS-Swift)
-        - [CleanArchitecture-iOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-iOS-SwiftUI)
-        - [CleanArchitecture-macOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-macOS-SwiftUI)
+    - [DesignTuist](https://github.com/jihoonahn/designtuist) 
+    - [Tuist Template](https://github.com/tuist-template) `Public archive`
+        - [CleanArchitecture-iOS-Swift](https://github.com/tuist-template/CleanArchitecture-iOS-Swift) `Public archive`
+        - [CleanArchitecture-iOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-iOS-SwiftUI) `Public archive`
+        - [CleanArchitecture-macOS-SwiftUI](https://github.com/tuist-template/CleanArchitecture-macOS-SwiftUI) `Public archive`
 
 - File Template
-    - [Xcode Template](https://github.com/Jihoonahn/Xcode-Template)
-        - [ReactorKit](https://github.com/Jihoonahn/Xcode-Template/tree/main/ReactorKit)
-        - [Clean Swift](https://github.com/Jihoonahn/Xcode-Template/tree/main/Clean%20Swift)
-        - [ModernRIBs or RIBs](https://github.com/Jihoonahn/Xcode-Template/tree/main/ModernRIBs%20or%20RIBs)
-        - [SwiftLint](https://github.com/Jihoonahn/Xcode-Template/tree/main/SwiftLint)
-        - [OneWay](https://github.com/Jihoonahn/Xcode-Template/tree/main/OneWay)
-        - [VIPER](https://github.com/Jihoonahn/Xcode-Template/tree/main/VIPER)
+    - [Xcode Template](https://github.com/jihoonahn/Xcode-Template) 
+        - [ReactorKit](https://github.com/jihoonahn/Xcode-Template/tree/main/ReactorKit)
+        - [Clean Swift](https://github.com/jihoonahn/Xcode-Template/tree/main/Clean%20Swift)
+        - [ModernRIBs or RIBs](https://github.com/jihoonahn/Xcode-Template/tree/main/ModernRIBs%20or%20RIBs)
+        - [SwiftLint](https://github.com/jihoonahn/Xcode-Template/tree/main/SwiftLint)
+        - [OneWay](https://github.com/jihoonahn/Xcode-Template/tree/main/OneWay)
+        - [VIPER](https://github.com/jihoonahn/Xcode-Template/tree/main/VIPER)
 
 </br>
 
 ### Setting
-- [JiHoonSetting](https://github.com/Jihoonahn/JihoonAHN-Setting)
-- [iOS-Shell-Script](https://github.com/Jihoonahn/iOS-Shell-Script)
-- [Xcode-Theme](https://github.com/Jihoonahn/Xcode-Theme)
+- [JiHoonSetting](https://github.com/jihoonahn/jihoonahn-Setting)
+- [iOS-Shell-Script](https://github.com/jihoonahn/iOS-Shell-Script)
+- [Xcode-Theme](https://github.com/jihoonahn/Xcode-Theme)

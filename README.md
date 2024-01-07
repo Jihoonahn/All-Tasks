@@ -47,7 +47,7 @@
 ### Plugin
 - [TuistUI](https://github.com/jihoonahn/tuistui)
 - [Microfeature](https://github.com/jihoonahn/microfeature)
-
+- [Configuration](https://github.com/jihoonahn/configuration)
 
 </br>
 
@@ -76,6 +76,6 @@
 </br>
 
 ### Setting
-- [JiHoonSetting](https://github.com/jihoonahn/jihoonahn-Setting)
+- [XcodeTheme](https://github.com/jihoonahn/Xcode-Theme)
+- [JihoonSetting](https://github.com/jihoonahn/jihoonahn-Setting)
 - [iOS-Shell-Script](https://github.com/jihoonahn/iOS-Shell-Script)
-- [Xcode-Theme](https://github.com/jihoonahn/Xcode-Theme)
